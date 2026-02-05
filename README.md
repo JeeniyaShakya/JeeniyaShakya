@@ -1,3 +1,4 @@
+![logo](https://github.com/JeeniyaShakya/JeeniyaShakya/blob/main/Github_banner.png)
 <h1 align="center">Hi 👋, I'm Jeeniya Shakya</h1>
 <h3 align="center">Building Insights, One Dataset at a Time</h3>
 
